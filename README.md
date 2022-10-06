@@ -65,5 +65,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Install
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Git clone.
+- composer update.
+- copy .inv.example rename jadi (.inv).
+- setup database.
+- php artisan key:generate.
+- php artisan serv.
+- login system email = admin@admin.com password = password.
 
