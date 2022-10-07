@@ -71,5 +71,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - setup database.
 - php artisan key:generate.
 - php artisan serv.
+- php artisan migrate --fresh
 - login system email = admin@admin.com password = password.
 
