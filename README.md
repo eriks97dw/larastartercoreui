@@ -70,7 +70,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - copy .inv.example rename jadi (.inv).
 - setup database.
 - php artisan key:generate.
+- npm install & npm run dev
 - php artisan serv.
-- php artisan migrate --fresh
+- php artisan migrate --seed
 - login system email = admin@admin.com password = password.
 
